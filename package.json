@@ -1,6 +1,10 @@
 {
-  "name": "daniel-random-king",
+  "name": "daniel-random-king-102",
   "version": "1.0.0",
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
